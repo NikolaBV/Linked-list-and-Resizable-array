@@ -1,6 +1,8 @@
-﻿namespace LinkedListAndResizableArray
+﻿using System.Collections;
+
+namespace LinkedListAndResizableArray
 {
-    public class MyStackUsingLinkedList<Item>
+    public class MyStackUsingLinkedList<Item> : IEnumerable<Item>
     {
         private Node<Item> first = null;
 
@@ -20,6 +22,21 @@
             Item value = first.item;
             first = first.next;
             return value;
+        }
+
+        public IEnumerator<Item> GetEnumerator()
+        {
+            Node<Item> current = first;
+            while (current != null)
+            {
+                yield return current.item;
+                current = current.next;
+            }
+        }
+
+        IEnumerator IEnumerable.GetEnumerator()
+        {
+            return GetEnumerator();
         }
     }
 }

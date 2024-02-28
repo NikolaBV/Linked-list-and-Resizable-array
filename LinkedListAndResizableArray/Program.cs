@@ -12,6 +12,11 @@ namespace DataStructures
             list.Push("1");
             list.Push('c');
             list.Push(2.5);
+
+            foreach (object o in list)
+            {
+                Console.WriteLine(o);
+            }
         }
     }
 }
