@@ -1,6 +1,6 @@
 ﻿namespace LinkedListAndResizableArray
 {
-    public class MyLinkedList<Item>
+    public class MyStackUsingLinkedList<Item>
     {
         private Node<Item> first = null;
 
