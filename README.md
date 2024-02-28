@@ -6,7 +6,7 @@ Welcome to my humble repository dedicated to **Linked Lists** and **Resizable Ar
 
 ## The Mission
 
-My goal here is simple: to provide a clean, efficient API for these fundamental data structures. Using _C#_ because it's what I know best, but hey, these babies can easily speak _C++_ or _Rust_ if need be! Performance? Sure, it matters, but I'm more focused on keeping things simple and usable.
+My goal here is simple: to provide a clean, efficient API for these fundamental data structures. Using _C#_ because it's what I know best, but _C++_ or _Rust_ would work good too! Performance? Sure, it matters, but I'm more focused on keeping things simple and usable.
 
 ---
 
@@ -21,6 +21,3 @@ These implementations aren't just for show. They're the building blocks for my f
 Feel free to dive into the code, suggest tweaks, or even collaborate on new features. Everything here is up for grabs, no strings attached. Let's make something awesome together!
 
 ---
-
-_Cheers,_
-_Your Name_
