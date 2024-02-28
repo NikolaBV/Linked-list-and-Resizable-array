@@ -1,0 +1,15 @@
+E:\Programming\Visual Studio C#\Linked-list-and-Resizable-array\LinkedListAndResizableArray\bin\Debug\net8.0\LinkedListAndResizableArray.exe
+E:\Programming\Visual Studio C#\Linked-list-and-Resizable-array\LinkedListAndResizableArray\bin\Debug\net8.0\LinkedListAndResizableArray.deps.json
+E:\Programming\Visual Studio C#\Linked-list-and-Resizable-array\LinkedListAndResizableArray\bin\Debug\net8.0\LinkedListAndResizableArray.runtimeconfig.json
+E:\Programming\Visual Studio C#\Linked-list-and-Resizable-array\LinkedListAndResizableArray\bin\Debug\net8.0\LinkedListAndResizableArray.dll
+E:\Programming\Visual Studio C#\Linked-list-and-Resizable-array\LinkedListAndResizableArray\bin\Debug\net8.0\LinkedListAndResizableArray.pdb
+E:\Programming\Visual Studio C#\Linked-list-and-Resizable-array\LinkedListAndResizableArray\obj\Debug\net8.0\LinkedListAndResizableArray.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming\Visual Studio C#\Linked-list-and-Resizable-array\LinkedListAndResizableArray\obj\Debug\net8.0\LinkedListAndResizableArray.AssemblyInfoInputs.cache
+E:\Programming\Visual Studio C#\Linked-list-and-Resizable-array\LinkedListAndResizableArray\obj\Debug\net8.0\LinkedListAndResizableArray.AssemblyInfo.cs
+E:\Programming\Visual Studio C#\Linked-list-and-Resizable-array\LinkedListAndResizableArray\obj\Debug\net8.0\LinkedListAndResizableArray.csproj.CoreCompileInputs.cache
+E:\Programming\Visual Studio C#\Linked-list-and-Resizable-array\LinkedListAndResizableArray\obj\Debug\net8.0\LinkedListAndResizableArray.sourcelink.json
+E:\Programming\Visual Studio C#\Linked-list-and-Resizable-array\LinkedListAndResizableArray\obj\Debug\net8.0\LinkedListAndResizableArray.dll
+E:\Programming\Visual Studio C#\Linked-list-and-Resizable-array\LinkedListAndResizableArray\obj\Debug\net8.0\refint\LinkedListAndResizableArray.dll
+E:\Programming\Visual Studio C#\Linked-list-and-Resizable-array\LinkedListAndResizableArray\obj\Debug\net8.0\LinkedListAndResizableArray.pdb
+E:\Programming\Visual Studio C#\Linked-list-and-Resizable-array\LinkedListAndResizableArray\obj\Debug\net8.0\LinkedListAndResizableArray.genruntimeconfig.cache
+E:\Programming\Visual Studio C#\Linked-list-and-Resizable-array\LinkedListAndResizableArray\obj\Debug\net8.0\ref\LinkedListAndResizableArray.dll
