@@ -18,10 +18,15 @@ namespace DataStructures
             {
                 Console.WriteLine(o);
             }
-            */
+          
             MyStackUsingResizableArray myStackUsingResizableArray = new MyStackUsingResizableArray();
             myStackUsingResizableArray.push("1");
             Console.WriteLine(myStackUsingResizableArray.Pop());
+              */
+            MyQueueUsingLinkedList<int> queue = new MyQueueUsingLinkedList<int>();
+            queue.Enqueue(1);
+            Console.WriteLine(queue.Dequeue());
+
         }
     }
 }
