@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LinkedListAndResizableArray")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9397a51d3ca9b8adccf15290513fdc70a6714bf1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b3b04dc7740ffd150de458a0801ad85f77f6cc89")]
 [assembly: System.Reflection.AssemblyProductAttribute("LinkedListAndResizableArray")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LinkedListAndResizableArray")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

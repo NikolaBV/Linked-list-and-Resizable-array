@@ -6,6 +6,7 @@ namespace DataStructures
     {
         public static void Main(string[] args)
         {
+            /*
             MyStackUsingLinkedList<object> list = new MyStackUsingLinkedList<object>();
 
             list.Push(1);
@@ -17,6 +18,10 @@ namespace DataStructures
             {
                 Console.WriteLine(o);
             }
+            */
+            MyStackUsingResizableArray myStackUsingResizableArray = new MyStackUsingResizableArray();
+            myStackUsingResizableArray.push("1");
+            Console.WriteLine(myStackUsingResizableArray.Pop());
         }
     }
 }
